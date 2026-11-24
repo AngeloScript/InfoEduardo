@@ -1,7 +1,7 @@
 (() => {
   'use strict';
   const store = window.EDUARDO_STORE || {};
-  const price = Number.isFinite(store.price) && store.price > 0 ? store.price : 29.99;
+  const price = Number.isFinite(store.price) && store.price > 0 ? store.price : 19.99;
   const money = new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL' }).format(price);
   document.querySelectorAll('[data-price]').forEach(node => { node.textContent = money; });
 
