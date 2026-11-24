@@ -2,7 +2,7 @@
 
 Página de vendas do ebook de Eduardo Bem Estar, com layout adaptado para celular, imagens, amostras de páginas e botões de compra.
 
-- Preço exibido: **R$ 29,99**.
+- Preço exibido: **R$ 19,99**.
 - Checkout: https://pay.cakto.com.br/38j8s8t_1336861
 - Produto: PDF com 110 receitas, 137 páginas e sete capítulos.
 
